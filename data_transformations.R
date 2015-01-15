@@ -1,6 +1,6 @@
 # Prashant B. Bhuyan
-# is607 Assignment 3
-# Due 9.16.2014
+# 9.16.2014
+# Data Acquisition & Management Transformations
 
 ##### Problem 1 #####
 # Solution
